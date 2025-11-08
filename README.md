@@ -1,15 +1,6 @@
-
-<img width="300" height="300" alt="New Project" src="https://github.com/user-attachments/assets/cf367510-1f91-46f0-90f2-97aa8ee6bdd2" align="left" />
-<br> 　　　　　　　　　　　　　🍊　　　　　
-<br>        　
-<br>
-
-　  　　<b>strawpage      　　  　[atabook](https://pseudocidalist.atabook.org/)     　　   　[prnspage](https://en.pronouns.page/@pseudocidalist)</b><br>
-    <br>
-      
-　　　　mercuro　　　　atsushi　　<i>or</i>　　sigma<br>
-    　　　　atsushi/sigma fictkin　　 　taken　　13<br>
-        <br>
-　　　　　　　yes i edit imgs with my hcs lol <br>
-       　　　 　i often mirror personalities n block freely
-  
+<p align="center">
+<img width="435" height="227" alt="image (12)" src="https://github.com/user-attachments/assets/2a3371df-f758-4334-9a3b-a48729fca0de" />
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/2f41e1e5-a5eb-457d-a943-2b338d1a8783">
+</p>
