@@ -4,5 +4,5 @@
 <p align="center">
 @ 　dazatsu 
   <br>
-  <a href="https://github.com/chuuaku">main</a>  <a href="https://halfrottenfruit.atabook.org/">atabook</a>  <a href="https://github.com/blackno12">alt</a>
+  <a href="https://github.com/chuuaku">main</a>  <a href="https://dazatsu.atabook.org/">atabook</a>  <a href="https://github.com/blackno12">alt</a>
 </p>
